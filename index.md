@@ -1,12 +1,12 @@
 ## Welcome to GitHub Pages
 
-### Это моя первая страница пошли все в жопу
+###
 
 You can use the [editor on GitHub](https://github.com/harzMachine/harzMachine.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 ![test img](img/grfit.png)
 
-[ссылка на гугл](https://google.com)  
+[моя страница в вк](https://vk.com/id257687963)  
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
